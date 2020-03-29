@@ -1,4 +1,4 @@
-# SDEventsTrafficImpact
+# Impact of San Diego Events on Nearby Traffic Conditions
 
 An exploration of the effects of events on nearby traffic conditions in San Diego. More specifically, a framework to predict the traffic impact of an event in terms of [service area](https://desktop.arcgis.com/en/arcmap/latest/extensions/network-analyst/service-area.htm) change. 
 
